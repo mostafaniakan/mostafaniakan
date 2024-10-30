@@ -55,6 +55,5 @@ contribute to cutting-edge projects and advance my professional skills.
 ---
 
 Feel free to explore my repositories and connect with me!
-## 🔗 Links
 
 
