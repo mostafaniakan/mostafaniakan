@@ -1,12 +1,8 @@
 
 ![Logo](assets/image/git.svg)
-# About Me
-
 # 💻 Mostafa Niakan
 
 **Passionate Programmer** specializing in web development with a strong foundation in JavaScript and PHP.
-
----
 
 ### 👨‍💻 About Me
 With 4 years of experience as a web developer, I specialize in both Front-End and Back-End
